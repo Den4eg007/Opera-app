@@ -2,7 +2,7 @@
 
 ## Opera-tickets-app
 A prototype of an online store selling opera tickets with
-basic functionality for user written in Java with Hibernate and MySQL as database.
+basic functionality, written in Java with Hibernate, Spring and MySQL as database.
 
 This project was build according to N-tier architecture and SOLID principles.
 
